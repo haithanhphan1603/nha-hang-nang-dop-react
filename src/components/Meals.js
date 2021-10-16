@@ -208,9 +208,8 @@ const Meals = () => {
             </li>
           </ul>
         </div>
-        // eslint-disable-next-line react/jsx-no-comment-textnodes
+
         <div className="container all-recipes">
-          // eslint-disable-next-line jsx-a11y/anchor-is-valid
           <a href="#" className="link">
             Xem tất cả các món &rarr;
           </a>
